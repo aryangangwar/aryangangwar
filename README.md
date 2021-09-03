@@ -20,6 +20,9 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack and retrofit library with Kotlin
 
 ## 🔗 Know more about me 
 
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:aryangangwar000@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](=https://www.linkedin.com/in/aryan-gangwar-795b711a2/)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/aryan_gangwar/)
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/aryan-gangwar-795b711a2/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://github.com/aryangangwar" target="_blank">
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" target="_blank" alt="Github" width="40px" ></a>
+</p>
