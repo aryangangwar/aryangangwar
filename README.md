@@ -21,3 +21,6 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack and retrofit library with Kotlin
 ## 🔗 Know more about me 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/aryan-gangwar-795b711a2/)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:aryangangwar000@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/aryan_gangwar/)
+  
