@@ -1,5 +1,5 @@
 
-# Hi there👋! I'm [Aryan] 🙋‍♂️
+# Hi there👋! I'm Aryan 🙋‍♂️
 
 ![Profile views](https://gpvc.arturio.dev/aryangangwar)
 
