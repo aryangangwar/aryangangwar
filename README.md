@@ -15,6 +15,10 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack and retrofit library with Kotlin
 
 ### 📊 Github Stats
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aryangangwar&count_private=true&show_icons=true&include_all_commits=true" alt="Aryan Gangwar | Stats" />
+  
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aryangangwar&theme=dark&hide_border=true" />
+</p>
+
 
 ---
 
